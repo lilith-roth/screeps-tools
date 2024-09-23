@@ -41,7 +41,7 @@
         "react-router-dom": "^5.2.0",
         "react-select": "^4.3.0",
         "reactstrap": "^8.6.0",
-        "rollup": "^2.46.0",
+        "rollup": "^3.29.5",
         "rollup-plugin-commonjs": "^10.1.0",
         "rollup-plugin-less": "^1.1.2",
         "rollup-plugin-node-resolve": "^5.2.0",
